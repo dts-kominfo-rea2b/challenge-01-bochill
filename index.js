@@ -9,7 +9,7 @@ const firstUser = {
     favoriteColor: Array.from(new Set(["Yellow", "Pink", "White", "Purple"])),
     isHavePet: true,
     education: [{
-        name: "SD 01," city: "Jakarta", graduate: 2016
+        name: "SD 01", city: "Jakarta", graduate: 2016
     },{
         name: "SMP 02", city: "Jakarta", graduate: 2019
     },{
@@ -25,7 +25,7 @@ const secondUser = {
     favoriteColor: Array.from(new Set(["Blue", "Black", "Grey"])),
     isHavePet: false,
     education: [{
-        name: "SD 02," city: "Jakarta", graduate: 2010
+        name: "SD 02", city: "Jakarta", graduate: 2010
     },{
         name: "SMP 03", city: "Bogor", graduate: 2013
     },{
